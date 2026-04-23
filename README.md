@@ -1,0 +1,1 @@
+A simulated ticket-grabbing system featuring a C# ASP.NET Core backend with a Redis virtual waiting room, an AI Agent for real-time scalper detection, and an intelligent purchasing assistant that lets you buy tickets using natural language.
