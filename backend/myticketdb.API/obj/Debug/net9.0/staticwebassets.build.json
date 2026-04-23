@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X7qYe5Sn37Nq68h0kc3orNGKyeBBLd+3UvUtP9rc9R8=",
+  "Source": "myticketdb.API",
+  "BasePath": "_content/myticketdb.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
