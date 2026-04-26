@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\myticketdb.API.props" />
-</Project>

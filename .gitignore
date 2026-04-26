@@ -1,3 +1,7 @@
 venv/
 **/venv/
 echo ".env" >> .gitignore
+**/.env
+.env
+bin/
+obj/
